@@ -20,7 +20,7 @@ body{
 }
 form {
     margin: 0 auto;
-    width: 28rem;
+    width: 30rem;
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
@@ -34,9 +34,10 @@ label {
 }
 input {
     font: 1em sans-serif;
-    width: 10rem;
+    width: 12rem;
     box-sizing: border-box;
     border: 1px solid #999;
+    margin-top: 0.5rem;
 }
 button {
     margin: 20px 0 0 154px;
