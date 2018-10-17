@@ -24,7 +24,7 @@ form {
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
-    background-image: linear-gradient(to bottom, #ffffff 70%, red);
+    background-image: linear-gradient(to bottom, #ffffff 60%, red);
 }
 label {
     display: inline-block;
@@ -38,9 +38,9 @@ input {
     box-sizing: border-box;
     border: 1px solid #999;
 }
-input:focus {
-    border-color: #000;
-}
 button {
     margin: 20px 0 0 154px;
+}
+#fillText{
+  margin: 5px 0 0 60px;
 }
